@@ -36,8 +36,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-Backend runs at: **http://127.0.0.1:8000**
-
 ## PostgreSQL Setup (Production)
 
 Update `.env`:
